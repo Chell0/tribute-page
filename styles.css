@@ -8,3 +8,33 @@ body {
     font-family: 'JetBrains Mono', monospace;
     padding-top: 70px;
 }
+
+.jumbotron {
+    background-color: #b5b5b5;
+    color: #ffffff;
+}
+
+strong {
+    color: #000000;
+}
+
+h3 {
+    font-size: 17px;
+}
+
+h3 > a {
+    color: #000000;
+}
+
+blockquote > p {
+    color: #000000;
+}
+
+blockquote > footer > cite {
+    color: #000000;
+    font-size: 17px;
+}
+
+.text-center p {
+    color: #000000;
+}
